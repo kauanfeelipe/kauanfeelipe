@@ -4,7 +4,7 @@
 
 👋 Olá! Sou um estudante de Ciência da Computação e desenvolvedor em formação, apaixonado por tecnologia e inovação. Atualmente, curso Bacharelado em Ciência da Computação na UNIFRAN e possuo formação técnica em Informática para Internet pela ETEC.
 
-🚀 Tenho experiência com Python, Java, HTML, CSS, JavaScript e MySQL, além de sólidos conhecimentos em Programação Orientada a Objetos. Sou uma pessoa proativa, adaptável e sempre em busca de aprendizado, pronto para encarar desafios e contribuir para soluções inovadoras no setor de TI.
+🚀 Tenho experiência com Python, HTML, CSS, JavaScript e MySQL, além de sólidos conhecimentos em Programação Orientada a Objetos. Sou uma pessoa proativa, adaptável e sempre em busca de aprendizado, pronto para encarar desafios e contribuir para soluções inovadoras no setor de TI.
 
 📌 Aqui no GitHub, compartilho projetos, estudos e experiências na área de desenvolvimento. Vamos conectar e construir juntos!
 
