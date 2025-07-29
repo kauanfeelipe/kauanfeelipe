@@ -34,6 +34,6 @@
 
 ###
 
-![snake gif](https://github.com/kauanfeelipe/(https://github.com/kauanfeelipe)/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kauanfeelipe/https://github.com/kauanfeelipe/kauanfeelipe/blob/output/github-contribution-grid-snake.svg)
 
 ###
